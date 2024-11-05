@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, I'm Jialin! 👋
 
-<!--
-**davidzeng21/davidzeng21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔬 Bioinformatics Enthusiast | 🧬 Exploring Life Through Data
 
-Here are some ideas to get you started:
+### 🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Master's student in Molecular Techniques in Life Sciences at **Karolinska Institutet/KTH Royal Institute of Technology/Stockholm University**.
+- 🧠 Passionate about genomic data analysis, computational biology, and personalized medicine.
+- 💻 Proficient in **Python**, **R**, and **Linux**.
+- 🌱 Currently learning about **machine learning applications in genomics**.
+- 🧩 Interested in solving complex biological puzzles with computational tools.
+- 🎯 Aiming to contribute to open-source bioinformatics projects.
+
+
+---
+
+*Feel free to reach out if you're interested in collaboration or just want to chat about science and tech!* 😊
